@@ -12,6 +12,6 @@ Sebagai orang yang ingin mulai berjualan di e-commerce, saya punya beberapa prob
 - Mengetahui kategori barang yang laku dijual di e-commerce, berdasarkan avg persentase barang terjual
 - Mengetahui harga yang tepat untuk menjual barang
 
-## Kesimpulan
+### Kesimpulan
 - Berdasarkan data, dari seluruh kategori, Perfumes & Fragrances merupakan barang yang paling laris, ditinjau dari avg persentase barang terjual. Lebih spesifik lagi Perfumes & Fragrances untuk Unisex
 - Rata2 harga parfum Unisex memang lebih murah dibandingkan parfum wanita dan pria.
